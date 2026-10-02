@@ -116,7 +116,7 @@ select {
   overflow: hidden;
   background:
     radial-gradient(circle at 85% 15%, rgba(39,190,212,.35), transparent 30%),
-    linear-gradient(135deg, #0e1b50 0%, #123d93 55%, #168bc3 100%);
+    linear-gradient(135deg, #0e1b50 0%, #1d52bd 55%, #1f7da9 100%);
   color: white;
 }
 
